@@ -15,11 +15,9 @@
 
 # include <stdarg.h>
 # include <stdlib.h>
-# include <string.h>
 # include <unistd.h>
 
 int		ft_printf(const char *str, ...);
-char	*ft_strchr(const char *s, int c);
 int		ft_onepercent(void);
 size_t	ft_ptr(void *adress);
 size_t	ft_putchar_fd(const char c, int fd);
