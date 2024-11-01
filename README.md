@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/status-finished-yellow"/>
-	<img src="https://img.shields.io/badge/evaluated-31%20%2F%2010%20%2F%202024-yellow"/>
-	<img src="https://img.shields.io/badge/score-100%2F100-yellow"/>
-	<img src="https://img.shields.io/badge/language-C_95.8%25-yellow"/>
-	<img src="https://img.shields.io/badge/last_commit-november-yellow"/>
+	<img src="https://img.shields.io/badge/status-finished-chocolate"/>
+	<img src="https://img.shields.io/badge/evaluated-31%20%2F%2010%20%2F%202024-chocolate"/>
+	<img src="https://img.shields.io/badge/score-100%2F100-chocolate"/>
+	<img src="https://img.shields.io/badge/language-C_95.8%25-chocolate"/>
+	<img src="https://img.shields.io/badge/last_commit-november-chocolate"/>
 	<a href='https://profile.intra.42.fr/users/mforest-' target="_blank"><img alt='42' src='https://img.shields.io/badge/Intra-100000?style=flat-round&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
